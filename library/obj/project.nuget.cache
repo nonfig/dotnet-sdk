@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W5lFPrsEt9hQr9yoVqhem+6GvKPMZmleXp/A1PBdeKdfRqI8Lw8VEGJ3jq6jb/TN3cqW4+qBWFp+v2p4s/9dRA==",
+  "success": true,
+  "projectFilePath": "/Users/rajkukreja/dev/nonfig/dotnet-sdk/library/library.csproj",
+  "expectedPackageFiles": [
+    "/Users/rajkukreja/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/rajkukreja/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/rajkukreja/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/rajkukreja/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
+    "/Users/rajkukreja/.nuget/packages/restsharp/106.11.4/restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

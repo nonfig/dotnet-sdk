@@ -1,0 +1,9 @@
+/Users/rajkukreja/dev/nonfig/dotnet-sdk/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/rajkukreja/dev/nonfig/dotnet-sdk/library/bin/Debug/netstandard2.0/library.dll
+/Users/rajkukreja/dev/nonfig/dotnet-sdk/library/bin/Debug/netstandard2.0/library.pdb
+/Users/rajkukreja/dev/nonfig/dotnet-sdk/library/obj/Debug/netstandard2.0/library.csprojAssemblyReference.cache
+/Users/rajkukreja/dev/nonfig/dotnet-sdk/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/rajkukreja/dev/nonfig/dotnet-sdk/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/rajkukreja/dev/nonfig/dotnet-sdk/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/rajkukreja/dev/nonfig/dotnet-sdk/library/obj/Debug/netstandard2.0/library.dll
+/Users/rajkukreja/dev/nonfig/dotnet-sdk/library/obj/Debug/netstandard2.0/library.pdb
